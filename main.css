@@ -1,0 +1,34 @@
+body {margin-left: 300px;}
+header {width: 900px;
+ height: 300px;
+background: #996633;}
+.tb{width:  5px;
+}
+.nav{width: 900px;
+height: 50px;
+background: #ccffcc;
+justify-content: space-around;}
+
+.menu{width: 300px;
+background: #ffffcc;
+font-size: 20px;}
+
+.container{width: 900px;
+	font-size: 20px;
+	display: flex;
+}
+.nv{display: flex;
+flex-direction: row;
+justify-content: space-around;
+font-size: 20px;
+list-style-type: none;}
+
+content{width: 600px;
+
+background:#999966; }
+
+ footer{width: 900px;
+ 	background: #996633;
+ 	height: 40px;
+ 	text-align: center;
+ }
